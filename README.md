@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Machine Learning
 - 📫 How to reach me mgradyn@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgradyn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Grady's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgradyn&show_icons=true&theme=dracula)
 
 <!---
 mgradyn/mgradyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
